@@ -157,7 +157,7 @@ h2
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-12-14 094146.png>)
+![alt text](<Screenshot 2025-12-19 083903.png>)
 
 
 ## RESULT:
